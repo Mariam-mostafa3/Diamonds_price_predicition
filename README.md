@@ -42,4 +42,4 @@ To run this project locally or integrate the model into a web application:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/Diamond-Price-Prediction.git](https://github.com/YourUsername/Diamond-Price-Prediction.git)
+   git clone https://github.com/Mariam-mostafa3/Diamonds_price_predicition.git 
